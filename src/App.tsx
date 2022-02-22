@@ -40,7 +40,7 @@ function App() {
     <Provider store={store}>
       <Container>
         <Content>
-          <Header>Crypto Trader</Header>
+          <Header>Flavio Trader</Header>
           <TickersPanel>
             <Tickers />
           </TickersPanel>
