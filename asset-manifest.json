@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Flavio-Trader/static/css/main.027502aa.chunk.css",
+    "main.js": "/Flavio-Trader/static/js/main.d4494e57.chunk.js",
+    "main.js.map": "/Flavio-Trader/static/js/main.d4494e57.chunk.js.map",
+    "runtime-main.js": "/Flavio-Trader/static/js/runtime-main.521422c4.js",
+    "runtime-main.js.map": "/Flavio-Trader/static/js/runtime-main.521422c4.js.map",
+    "static/css/2.e21725f8.chunk.css": "/Flavio-Trader/static/css/2.e21725f8.chunk.css",
+    "static/js/2.dfe5a820.chunk.js": "/Flavio-Trader/static/js/2.dfe5a820.chunk.js",
+    "static/js/2.dfe5a820.chunk.js.map": "/Flavio-Trader/static/js/2.dfe5a820.chunk.js.map",
+    "index.html": "/Flavio-Trader/index.html",
+    "static/css/2.e21725f8.chunk.css.map": "/Flavio-Trader/static/css/2.e21725f8.chunk.css.map",
+    "static/css/main.027502aa.chunk.css.map": "/Flavio-Trader/static/css/main.027502aa.chunk.css.map",
+    "static/js/2.dfe5a820.chunk.js.LICENSE.txt": "/Flavio-Trader/static/js/2.dfe5a820.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/Flavio-Trader/static/media/MaterialIcons-Regular.83bebaf3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.521422c4.js",
+    "static/css/2.e21725f8.chunk.css",
+    "static/js/2.dfe5a820.chunk.js",
+    "static/css/main.027502aa.chunk.css",
+    "static/js/main.d4494e57.chunk.js"
+  ]
+}
