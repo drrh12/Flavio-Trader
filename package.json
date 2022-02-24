@@ -1,7 +1,7 @@
 {
   "name": "crypto-trader",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "http://drrh12.github.io/Flavio-Trader",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -37,6 +37,8 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
+    "pre-deploy": "npm run build",
+    "deply": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -73,6 +75,7 @@
     "@storybook/react": "^5.3.18",
     "husky": "^4.2.5",
     "prettier": "2.0.5",
-    "pretty-quick": "^2.0.1"
+    "pretty-quick": "^2.0.1",
+    "gh-pages": "^2.1.1"
   }
 }
